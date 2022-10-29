@@ -33,7 +33,7 @@ body {
   	background-color: #2E0062;
   	overflow: hidden;
   	margin:auto;
-  	box-shadow:  5px 5px 5px   #000000;
+  	box-shadow: rgba(231, 157, 213, 0.5) 0 1px 30px;
   	position: absolute;
   	top: 50%;
   	left: 50%;
